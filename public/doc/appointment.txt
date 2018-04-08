@@ -1,0 +1,10 @@
+appointment field  
+
+
+id 
+opd_id
+patient_id
+date
+shift
+time
+status
